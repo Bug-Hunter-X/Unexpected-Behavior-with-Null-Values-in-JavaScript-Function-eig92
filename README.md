@@ -1,0 +1,1 @@
+This repository demonstrates a common bug in JavaScript: unexpected behavior when dealing with null values. The `foo` function attempts to handle null input, but does so in a way that may be unexpected or lead to subtle errors.  The solution demonstrates how to handle this situation more robustly.
